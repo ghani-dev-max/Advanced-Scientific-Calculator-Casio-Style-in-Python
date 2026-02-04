@@ -84,15 +84,6 @@ root(27,3)
 2. Save the file as `calculator.py`
 3. Run:
 
-```bash
-python calculator.py
-Project Structure
-bash
-Copy code
-calculator.py   # Main calculator logic
-README.md       # Documentation
-Educational Value
-
 This project is ideal for:
 Learning expression parsing and evaluation
 Understanding scientific calculator logic
